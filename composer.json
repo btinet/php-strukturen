@@ -1,0 +1,13 @@
+{
+    "name": "treptowkolleg/php-strukturen",
+    "description": "Klassen, Interfaces und Enums",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Treptowkolleg\\PhpStrukturen\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
